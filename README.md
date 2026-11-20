@@ -1,6 +1,6 @@
 #### Map showing reports of each climbing rātā species, alongside observations of myrtle rust from iNaturalist and the predicted risk of myrtle rust based on climate. The rātā speceis are all in the *Metrosideros* genus: *M. albiflora,M. diffusa, M. carminea, M. colensoi M. fulgens, M. perforata*
 
-**You can:**
+**In the map you can:**
 * Use the side bar to click on different species and see where they have been found.
 * Search your location in the left-hand box.
 
